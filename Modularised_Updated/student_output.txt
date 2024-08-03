@@ -1,0 +1,16 @@
+ ID: 1 NAME: aa GPA: 8.10 Subjects: 4
+ Subject ID 560	 Marks 39
+ Subject ID 450	 Marks 58
+ Subject ID 620	 Marks 76
+ Subject ID 470	 Marks 49
+ ID: 3 NAME: ac GPA: 5.90 Subjects: 2
+ Subject ID 560	 Marks 39
+ Subject ID 450	 Marks 42
+ ID: 4 NAME: ad GPA: 7.90 Subjects: 3
+ Subject ID 0	 Marks 0
+ Subject ID 0	 Marks 0
+ Subject ID 0	 Marks 0
+ ID: 5 NAME: ae GPA: 7.10 Subjects: 3
+ Subject ID 0	 Marks 0
+ Subject ID 0	 Marks 0
+ Subject ID 0	 Marks 0
